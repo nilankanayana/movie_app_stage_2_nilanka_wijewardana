@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- search types for main activity -->
+    <string-array name="search_types">
+        <item>@string/most_popular</item>
+        <item>@string/highest_rated</item>
+        <item>@string/favourites</item>
+    </string-array>
+</resources>

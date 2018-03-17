@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- card layout -->
+    <dimen name="poster_title_text_size">16sp</dimen>
+    <dimen name="poster_title_margin_top">6dp</dimen>
+    <dimen name="poster_title_margin_bottom">6dp</dimen>
+
+    <!-- images -->
+    <string name="default_poster_size">w780</string>
+    <string name="default_backdrop_size">original</string>
+</resources>

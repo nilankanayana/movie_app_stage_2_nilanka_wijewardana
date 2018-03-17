@@ -1,0 +1,44 @@
+<resources>
+    <!-- common -->
+    <string name="app_name">MovieDB</string>
+    <string name="error_message">An error has occurred. Please check the network connections and retry refreshing.</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="refresh">Reload</string>
+    <string name="like">Like</string>
+    <string name="movie_poster">movie poster</string>
+    <string name="rating">Rating:</string>
+    <string name="release_date">Release Date:</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="favourites">Favourites</string>
+    <string name="notify_user_make_favourite">%s is now one of your favourites</string>
+    <string name="notify_user_make_unfavourite">%s is not anymore one of your favourites</string>
+    <string name="share_trailer">Share Trailer</string>
+
+    <!-- genres for movie info activity -->
+    <string name="genre_28">Action</string>
+    <string name="genre_12">Adventure</string>
+    <string name="genre_16">Animation</string>
+    <string name="genre_35">Comedy</string>
+    <string name="genre_80">Crime</string>
+    <string name="genre_99">Documentary</string>
+    <string name="genre_18">Drama</string>
+    <string name="genre_10751">Family</string>
+    <string name="genre_14">Fantasy</string>
+    <string name="genre_36">History</string>
+    <string name="genre_27">Horror</string>
+    <string name="genre_10402">Music</string>
+    <string name="genre_9648">Mystery</string>
+    <string name="genre_10749">Romance</string>
+    <string name="genre_878">Science Fiction</string>
+    <string name="genre_10770">TV Movie</string>
+    <string name="genre_53">Thriller</string>
+    <string name="genre_10752">War</string>
+    <string name="genre_37">Western</string>
+    <string name="genre_unknown">Unknown</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
